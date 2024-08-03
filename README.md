@@ -9,6 +9,6 @@ java-algorithm/
 │
 ├── sort/
 │   ├── InsertionSort.java(insertion sort algorithm)
-│   ├── SelectionSort.java(insertion sort algorithm)
+│   ├── SelectionSort.java(selection sort algorithm)
 │   └── SortTest.java
 ```
