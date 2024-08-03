@@ -8,7 +8,7 @@ this is my algorithm implement for java repositories,goal is learn algorithm and
 java-algorithm/
 │
 ├── sort/
-│   ├── InsertionSort.java(insertion sort algorithm)
-│   ├── SelectionSort.java(selection sort algorithm)
+│   ├── InsertionSort.java
+│   ├── SelectionSort.java
 │   └── SortTest.java
 ```
